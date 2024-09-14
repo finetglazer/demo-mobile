@@ -389,7 +389,17 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Scripts/GamePause/CharacterMovement.cs"
+"Assets/Scripts/GamePause/GamePauseHandleButtonsClick.cs"
+"Assets/Scripts/GamePause/TextEffect.cs"
+"Assets/Scripts/Loading/CharacterMovementInLoadingScreen1.cs"
+"Assets/Scripts/Loading/CharacterMovementInLoadingScreen2.cs"
+"Assets/Scripts/Loading/CharacterMovementInLoadingScreen3.cs"
+"Assets/Scripts/MainMenu/MainMenuHandleButtonsClick.cs"
 "Assets/Scripts/Player/PlayerMovement.cs"
+"Assets/Scripts/SettingMenu/HandleEditInputField.cs"
+"Assets/Scripts/SettingMenu/JumpAndRunPowerButtons.cs"
+"Assets/Scripts/SettingMenu/VolumeSlider.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
