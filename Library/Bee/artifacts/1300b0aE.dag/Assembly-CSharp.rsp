@@ -390,10 +390,25 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
+<<<<<<< HEAD
+-analyzer:"D:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
+-analyzer:"D:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Scripts/GamePause/CharacterMovement.cs"
+"Assets/Scripts/GamePause/GamePauseHandleButtonsClick.cs"
+"Assets/Scripts/GamePause/TextEffect.cs"
+"Assets/Scripts/Loading/CharacterMovementInLoadingScreen1.cs"
+"Assets/Scripts/Loading/CharacterMovementInLoadingScreen2.cs"
+"Assets/Scripts/Loading/CharacterMovementInLoadingScreen3.cs"
+"Assets/Scripts/MainMenu/MainMenuHandleButtonsClick.cs"
+=======
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.43f1-x86_64/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.43f1-x86_64/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/demo_movement.cs"
+>>>>>>> 2b5312dffe63ecbeae3411f4650687a3388c7b15
 "Assets/Scripts/Player/PlayerMovement.cs"
+"Assets/Scripts/SettingMenu/HandleEditInputField.cs"
+"Assets/Scripts/SettingMenu/JumpAndRunPowerButtons.cs"
+"Assets/Scripts/SettingMenu/VolumeSlider.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
